@@ -1,0 +1,27 @@
+{
+  "name": "copperbottom-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^67.0.0",
+    "puppeteer": "^7.1.0",
+    "puppeteer-extra": "^3.1.16",
+    "puppeteer-extra-plugin-stealth": "^2.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklascook/copperbottom-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicklascook/copperbottom-functions/issues"
+  },
+  "homepage": "https://github.com/nicklascook/copperbottom-functions#readme",
+  "type": "module"
+}
